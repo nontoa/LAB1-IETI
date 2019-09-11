@@ -11,9 +11,13 @@ git clone https://github.com/nontoa/LAB1-IETI.git
 ### Pasos para descargar e installar:
 
 * Clonar el proyecto: git clone https://github.com/nontoa/LAB1-IETI.git
-* Ingresar al proyecto: cd LAB1.IETI/lab1
+* Ingresar al proyecto: cd LAB1-IETI/lab1
 * Instalar paquetes: npm i
 * Correr aplicacion: npm start
+
+### CodeCademy: 
+
+![Screenshot](Image.PNG)
 
 ## Autor
 
