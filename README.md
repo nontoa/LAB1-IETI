@@ -1,5 +1,4 @@
-# Laboratorio 2 AREP
-
+# Laboratorio 1 IETI
 
 ## Empezando
 
